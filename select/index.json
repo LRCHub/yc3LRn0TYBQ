@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ヤバみ",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-23T09:21:58.559418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヤバみ",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": true,
+      "path": "select/01_ヤバみ_ヤバイTシャツ屋さん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヤバみ",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": true,
+      "path": "select/02_ヤバみ_Yabai_T-Shirts_Yasan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヤバみ",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_ヤバみ_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ヤバみ(岡崎体育 remix)",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_ヤバみ(岡崎体育_remix)_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ヤバみ",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_ヤバみ_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
